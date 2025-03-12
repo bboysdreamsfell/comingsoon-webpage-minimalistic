@@ -92,14 +92,6 @@ footer .arrowed_btn{
 }
 
 @media (max-width:720px){
-    main{
-        height:auto;
-    }
-    
-    footer{
-        position:static;
-    }
-    
     header section, header aside{
         align-items:flex-start;
     }
