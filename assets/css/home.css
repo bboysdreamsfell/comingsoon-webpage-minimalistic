@@ -128,23 +128,6 @@ footer .arrowed_btn{
     }
 }
 
-@media (max-height:600px){
-    footer{
-        padding:1rem 0;
-    }
-    
-    footer section{
-        padding:0 2rem;
-    }
-    
-    .rotater{
-        top:0;
-    }
-    
-    footer article .small{
-        font-size:19px;
-    }
-}
 
 @media (max-height:550px){
     .rotater{
